@@ -1,0 +1,9 @@
+.container{
+    display:flex;
+    justify-content:left;
+    background: #DEE5E5;
+   
+}
+.sidebar{
+    left:0;
+}

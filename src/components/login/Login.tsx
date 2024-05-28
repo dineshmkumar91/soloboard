@@ -3,6 +3,7 @@ import './login.css';
 const Login = () => {
   return (
   <>
+  <div className="container">
   <div className="wrapper">
     <form>
         <h1>Login</h1>
@@ -23,6 +24,7 @@ const Login = () => {
             <p>Don't have an account? <a href="#">Register</a></p>
         </div>
     </form>
+  </div>
   </div>
   </>
   )
